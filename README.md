@@ -1,2 +1,2 @@
-# AutoLayou
+# AutoLayout
 Practicing auto layout 
